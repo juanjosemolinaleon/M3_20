@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MVPExample_class_20_08</string>
+    <string name="app_name">M3_20</string>
+    <string name="weak">WEAK</string>
+    <string name="medium">MEDIUM</string>
+    <string name="strong">STRONG</string>
+    <string name="pass_level">NIVEL DE SEGURIDAD</string>
+    <string name="pass_enter">Ingresa Clave</string>
 </resources>
